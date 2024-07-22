@@ -1,1 +1,0 @@
-# candidate-management-system
